@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="diassemana">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+    </string-array>
+</resources>
